@@ -26,14 +26,22 @@
 <br>
 <br>
 <br>
+<h2>Fonts</h2>
+
+<br>
+<br>
 <h2>Selectors</h2>
 <ul>
-  <li><strong>Element</strong></li>
+  <li><strong>Element/Type</strong></li>
   <li><strong>Class</strong>&nbsp;&nbsp;&nbsp;&nbsp; <em>.class</em></li>
   <li><strong>ID</strong>&nbsp;&nbsp;&nbsp;&nbsp; <em>#id</em></li>
   <li><strong>Descendant</strong>&nbsp;&nbsp; <em>li a</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; selects every a in an li</li>
   <li><strong>Adjacent</strong>&nbsp;&nbsp; <em>h4 + li</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; selects all li that comes after h4</li>
   <li><strong>Nth of Type</strong>&nbsp;&nbsp; <em>ul:nth-of-type(3)</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; selects third ul</li>
 </ul>
+<br>
+<br>
+<h2>Specificity</h2>
+<p>An element can be targeted by multiple styles/selectors. The style that is closest/most specific to the element will be applied by CSS. ID > Class > Element/Type</p>
 
 
