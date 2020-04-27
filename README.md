@@ -3,21 +3,21 @@
 <br>
 <h4>Hex</h4>
 <p>
-  <em>color</em>: #RRGGBB
+  <em>color</em>:&nbsp;  #RRGGBB
 </p>
 <h4>RGB</h4>
 <p>
-  <em>color</em>: rgb(0,255,0)
+  <em>color</em>:&nbsp;  rgb(0,255,0)
 </p>
 <h4>RGBA (A is transparency)</h4>
 <p>
-  <em>color</em>: rgb(0,255,0, .5)
+  <em>color</em>: &nbsp; rgb(0,255,0, .5)
 </p>
 <br>
 <br>
 <h2>Background</h2>
 <p><em>background</em>: &nbsp; pink<br></p>
-<p><em>background</em>:  url(image)<br></p>
-<p><em>background-repeat</em>:  no-repeat <br></p>
-<p><em>background-size</em>:  cover <br></p>
+<p><em>background</em>: &nbsp;  url(image)<br></p>
+<p><em>background-repeat</em>: &nbsp;  no-repeat <br></p>
+<p><em>background-size</em>: &nbsp;  cover <br></p>
 
