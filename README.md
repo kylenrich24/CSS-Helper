@@ -13,7 +13,15 @@
 <br>
 <br>
 
-
+<h2>Box Model</h2>
+<p>Every element has a box around it</p>
+<img src="https://miro.medium.com/max/2948/1*gq1B7v2_gDEi3jkAwAvZNQ.png" height="42" width="42">
+<ul>
+  <li>Padding - between the content and the border</li>
+  <li>Margin - outside the border and everything else, spacing between elements</li>
+</ul>
+<br>
+<br>
 
 <h2>CSS COLORS</h2>
 <h4>Hex</h4>
