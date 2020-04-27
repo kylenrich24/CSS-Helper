@@ -42,6 +42,8 @@
 <br>
 <br>
 <h2>Specificity</h2>
-<p>An element can be targeted by multiple styles/selectors. The style that is closest/most specific to the element will be applied by CSS. ID > Class > Element/Type</p>
+<p>An element can be targeted by multiple styles/selectors. The style that is closest/most specific to the element will be applied by CSS. 
+  <br>
+  ID > Class > Element/Type</p>
 
 
