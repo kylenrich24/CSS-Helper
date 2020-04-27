@@ -16,8 +16,8 @@
 <br>
 <br>
 <h2>Background</h2>
-<em>background</em>: &emsp pink<br>
-<em>background</em>:  &emspurl(image)<br>
-<em>background-repeat</em>: &emsp no-repeat <br>
-<em>background-size</em>: &emsp cover <br>
+<p><em>background</em>:  pink<br></p>
+<p><em>background</em>:  url(image)<br></p>
+<p><em>background-repeat</em>:  no-repeat <br></p>
+<p><em>background-size</em>:  cover <br></p>
 
