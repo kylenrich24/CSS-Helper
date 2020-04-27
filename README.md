@@ -27,7 +27,7 @@
 <br>
 <h2>Selectors</h2>
 <ul>
-  <li><strong>Element Selector</strong></li>
+  <li><strong>Element</strong></li>
   <li><strong>Class</strong>&nbsp;&nbsp; .class</li>
   <li><strong>ID</strong>&nbsp;&nbsp; #id</>
 </ul>
