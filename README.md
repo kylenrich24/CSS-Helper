@@ -31,8 +31,8 @@
   <li><strong>Element</strong></li>
   <li><strong>Class</strong>&nbsp;&nbsp; .class</li>
   <li><strong>ID</strong>&nbsp;&nbsp; #id</li>
-  <li><strong>Descendant</strong>&nbsp;&nbsp; li a &nbsp;&nbsp; selects every <a/> tag in an <li/></li>
-  <li><strong>Adjacent</strong>&nbsp;&nbsp; h4 + li &nbsp;&nbsp; selects all <li/> that comes after <h4/></li>
+  <li><strong>Descendant</strong>&nbsp;&nbsp; li a &nbsp;&nbsp; selects every a in an li</li>
+  <li><strong>Adjacent</strong>&nbsp;&nbsp; h4 + li &nbsp;&nbsp; selects all li that comes after h4</li>
   <li><strong>Nth of Type</strong>&nbsp;&nbsp; ul:nth-of-type(3) &nbsp;&nbsp; selects third ul</li>
 </ul>
 
