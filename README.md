@@ -20,3 +20,9 @@ h1 {
 }
 </p>
 
+<h2>Background</h2>
+background: pink - color <br>
+background: url(image) - image <br>
+background-repeat: no-repeat <br>
+background-size: cover <br>
+
