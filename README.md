@@ -1,4 +1,4 @@
-<h2>CSS COLORS</h2>
+<h2 style="color:blue;">CSS COLORS</h2>
 <strong>CSS Colours</strong> - https://colours.neilorangepeel.com/
 <br>
 <h4>Hex</h4>
@@ -15,14 +15,14 @@
 </p>
 <br>
 <br>
-<h2>Background</h2>
+<h2 style="color:blue;">Background</h2>
 <p><em>background</em>: &nbsp; pink<br></p>
 <p><em>background</em>: &nbsp;  url(image)<br></p>
 <p><em>background-repeat</em>: &nbsp;  no-repeat <br></p>
 <p><em>background-size</em>: &nbsp;  cover <br></p>
 <br>
 <br>
-<h2>Border</h2>
+<h2 style="color:blue;">Border</h2>
 <p><em>border</em>: &nbsp; 5px, solid, purple<br></p>
 
 
