@@ -1,5 +1,4 @@
 <h2>CSS COLORS</h2>
-<p>
 <strong>CSS Colours</strong> - https://colours.neilorangepeel.com/
 <br>
 <h4>Hex</h3>
@@ -20,4 +19,4 @@ h1 {
   color: rgb(0,255,0, .5)
 }
 </p>
-</p>
+
