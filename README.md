@@ -1,3 +1,7 @@
+<h2>Border</h2>
+<p><em>border</em>: &nbsp; 5px, solid, purple<br></p>
+<br>
+<br>
 <h2>CSS COLORS</h2>
 <h4>Hex</h4>
 <p>
@@ -20,10 +24,6 @@
 <p><em>background</em>: &nbsp;  url(image)<br></p>
 <p><em>background-repeat</em>: &nbsp;  no-repeat <br></p>
 <p><em>background-size</em>: &nbsp;  cover <br></p>
-<br>
-<br>
-<h2>Border</h2>
-<p><em>border</em>: &nbsp; 5px, solid, purple<br></p>
 <br>
 <br>
 <h2>Selectors</h2>
