@@ -1,4 +1,4 @@
-<h1>CSS</h1>
+<h1><strong>CSS</strong></h1>
 <hr>
 <h2>Background</h2>
 <p><em>background</em>: &nbsp; pink<br></p>
