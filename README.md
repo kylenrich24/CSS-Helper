@@ -1,3 +1,10 @@
+<h2>Background</h2>
+<p><em>background</em>: &nbsp; pink<br></p>
+<p><em>background</em>: &nbsp;  url(image)<br></p>
+<p><em>background-repeat</em>: &nbsp;  no-repeat <br></p>
+<p><em>background-size</em>: &nbsp;  cover <br></p>
+<br>
+<br>
 <h2>Border</h2>
 <p><em>border</em>: &nbsp; 5px, solid, purple<br></p>
 <br>
@@ -17,13 +24,6 @@
 </p>
 <strong>CSS Colours</strong> - https://colours.neilorangepeel.com/
 <br>
-<br>
-<br>
-<h2>Background</h2>
-<p><em>background</em>: &nbsp; pink<br></p>
-<p><em>background</em>: &nbsp;  url(image)<br></p>
-<p><em>background-repeat</em>: &nbsp;  no-repeat <br></p>
-<p><em>background-size</em>: &nbsp;  cover <br></p>
 <br>
 <br>
 <h2>Selectors</h2>
