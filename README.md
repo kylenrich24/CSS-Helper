@@ -16,7 +16,7 @@
 <br>
 <br>
 <h2>Background</h2>
-<p><em>background</em>:  pink<br></p>
+<p><em>background</em>: &nbsp; pink<br></p>
 <p><em>background</em>:  url(image)<br></p>
 <p><em>background-repeat</em>:  no-repeat <br></p>
 <p><em>background-size</em>:  cover <br></p>
