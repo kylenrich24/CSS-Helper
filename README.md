@@ -1,12 +1,12 @@
 <strong>CSS Colours</strong> - https://colours.neilorangepeel.com/
 <br>
-<h3>Hex</h3>
+<h4>Hex</h3>
 <p>
 h1 {
   color: #RRGGBB
 }
 </p>
-<h3>RGB</h3>
+<h4>RGB</h3>
 <p>
 h1 {
   color: rgb(0,255,0)
