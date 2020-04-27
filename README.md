@@ -13,10 +13,11 @@
 <p>
   <em>color</em>: rgb(0,255,0, .5)
 </p>
-
+<br>
+<br>
 <h2>Background</h2>
-<em>background</em>: pink - color <br>
-<em>background</em>: url(image) - image <br>
-<em>background-repeat</em>: no-repeat <br>
-<em>background-size</em>: cover <br>
+<em>background</em>: pink<br>
+<em>background</em>: url(image)<br>
+<em>background-repeat</em>:  no-repeat <br>
+<em>background-size</em>:  cover <br>
 
