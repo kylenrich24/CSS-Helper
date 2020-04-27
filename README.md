@@ -23,5 +23,13 @@
 <br>
 <h2>Border</h2>
 <p><em>border</em>: &nbsp; 5px, solid, purple<br></p>
+<br>
+<br>
+<h2>Selectors</h2>
+<ul>
+  <li><strong>Element Selector</strong></li>
+  <li><strong>Class</strong>&nbsp;&nbsp; .class</li>
+  <li><strong>ID</strong>&nbsp;&nbsp; #id</>
+</ul>
 
 
