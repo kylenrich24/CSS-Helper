@@ -44,12 +44,11 @@
     </ul>
   <li><em>font-weight:</em>bold&nbsp;&nbsp;&nbsp;&nbsp;(100-800)</li>
   <li><em>line-height:</em>2&nbsp;&nbsp;&nbsp;&nbsp;double-spaced</li>
-  <li><em>text-align:</em>center</li>
-  <li><em>text-decoration:</em>underline</li>
-  https://fonts.google.com/
-  
-</ul>
+  <li><em>text-align:&nbsp;</em>center</li>
+  <li><em>text-decoration:&nbsp;</em>underline</li>
+  </ul>
 <p>https://www.cssfontstack.com/</p>
+<p>https://fonts.google.com/</p>
 <br>
 <br>
 
