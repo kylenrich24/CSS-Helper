@@ -47,8 +47,9 @@
   <li><em>text-align:&nbsp;&nbsp;</em>center</li>
   <li><em>text-decoration:&nbsp;&nbsp;</em>underline</li>
   </ul>
-<strong>Available fonts in CSS/strong> -https://www.cssfontstack.com/
-<strong>Google Fonts</strong> -https://fonts.google.com/
+<strong>Available fonts in CSS</strong> -&nbsp;&nbsp;https://www.cssfontstack.com/
+ <br>
+<strong>Google Fonts</strong> -&nbsp;&nbsp; https://fonts.google.com/
 <br>
 <br>
 
