@@ -44,8 +44,14 @@
 <br>
 <br>
 
-
-
+<h2>Float</h2>
+<p>Takes the elements out of the normal flow. For instance, we have 2 divs which are block elements, float would overwrite this.</p>
+<p><em>float</em>: &nbsp; left &nbsp;&nbsp;&nbsp;The divs wouldnt be blocks anymore, their orientation/flow would be changed to  floating always to the left</p>
+ 
+<br>
+<br>
+<br>
+<br>
 
 <h2>Fonts and Texts</h2>
 <ul>
