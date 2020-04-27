@@ -11,7 +11,7 @@
 
 
 <h2>Border</h2>
-<p><em>border</em>: &nbsp; 5px, solid, purple<br></p>
+<p><em>border</em>: &nbsp; 5px &nbsp; &nbsp; solid&nbsp; &nbsp;  purple<br></p>
 <br>
 <br>
 
