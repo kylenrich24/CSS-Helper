@@ -65,6 +65,7 @@
   <li><em>line-height:&nbsp;&nbsp;</em>2&nbsp;&nbsp;&nbsp;&nbsp;double-spaced</li>
   <li><em>text-align:&nbsp;&nbsp;</em>center</li>
   <li><em>text-decoration:&nbsp;&nbsp;</em>underline</li>
+  <li><em>text-transform:&nbsp;&nbsp;</em>uppercase</li>
   </ul>
 <strong>Available fonts in CSS</strong> -&nbsp;&nbsp;https://www.cssfontstack.com/
  <br>
