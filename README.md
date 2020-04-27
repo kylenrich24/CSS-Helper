@@ -17,10 +17,10 @@
 <p>Every element has a box around it</p>
 <img src="https://miro.medium.com/max/2948/1*gq1B7v2_gDEi3jkAwAvZNQ.png" height="150" width="200">
 <ul>
-  <li>Element - <em>width/height:</em>&nbsp;&nbsp;200px&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;can also use % of the parent element </li>
-  <li>Padding - <em>padding:</em>&nbsp;&nbsp;10px&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sets 10px of padding all around</li>
-  <li>Margin - <em>margin:</em>&nbsp;&nbsp;10px&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sets 10px of margin all around, we can also do 0 auto which will set top and bottom to 0 and left and right to auto(center)</li>
-  <li>Border - <em>border:</em>&nbsp;&nbsp;2px solid blue</li>
+  <li><strong>Element</strong> - <em>width/height:</em>&nbsp;&nbsp;200px&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;can also use % of the parent element </li>
+  <li><strong>Padding</strong> - <em>padding:</em>&nbsp;&nbsp;10px&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sets 10px of padding all around</li>
+  <li><strong>Margin</strong> - <em>margin:</em>&nbsp;&nbsp;10px&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sets 10px of margin all around, we can also do 0 auto which will set top and bottom to 0 and left and right to auto(center)</li>
+  <li><strong>Border</strong> - <em>border:</em>&nbsp;&nbsp;2px solid blue</li>
 </ul>
 <br>
 <br>
