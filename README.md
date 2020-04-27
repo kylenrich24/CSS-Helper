@@ -37,10 +37,10 @@
 
 <h2>Fonts</h2>
 <ul>
-  <li><em>font-family: "Arial"</em></li>
-  <li><em>font-size: 200px </em></li>
+  <li><em>font-family:</em> "Arial"</li>
+  <li><em>font-size:</em> 200px </li>
   <ul>
-    <li>em - control the size base on the parent element. For instance, we have a p and we set one sentence in it to 2 em, the sentence will be doubled the size of p<li/>
+    <li>em - control the size base on the parent element. For instance, we have a p and we set one sentence in it to 2 em, the sentence will be doubled the size of p. Another example would be setting an h2 to 5 em, it will be 5 times bigger than the body since this is its parent element.<li/>
   </ul>
 </ul>
 <p>https://www.cssfontstack.com/</p>
