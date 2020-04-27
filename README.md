@@ -1,5 +1,5 @@
 <h1><strong>CSS</strong></h1>
-<img src="https://www.tutorialrepublic.com/lib/images/css-illustration.png" height=350px width="1000px"/>
+<img src="https://www.tutorialrepublic.com/lib/images/css-illustration.png" height=350px width=1000px/>
 <h2>Background</h2>
 <p><em>background</em>: &nbsp; pink<br></p>
 <p><em>background</em>: &nbsp;  url(image)<br></p>
