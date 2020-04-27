@@ -5,10 +5,16 @@
 <p><em>background-size</em>: &nbsp;  cover <br></p>
 <br>
 <br>
+
+
+
 <h2>Border</h2>
 <p><em>border</em>: &nbsp; 5px, solid, purple<br></p>
 <br>
 <br>
+
+
+
 <h2>CSS COLORS</h2>
 <h4>Hex</h4>
 <p>
@@ -26,10 +32,24 @@
 <br>
 <br>
 <br>
-<h2>Fonts</h2>
 
+
+
+<h2>Fonts</h2>
+<ul>
+  <li><em>font-family: "Arial"</em></li>
+  <li><em>font-size: 200px </em></li>
+  <ul>
+    <li>em - control the size base on the parent element. For instance, we have a p and we set one sentence in it to 2 em, the sentence will be doubled the size of p<li/>
+  </ul>
+</ul>
+<p>https://www.cssfontstack.com/</p>
 <br>
 <br>
+
+
+
+
 <h2>Selectors</h2>
 <ul>
   <li><strong>Element/Type</strong></li>
@@ -41,6 +61,9 @@
 </ul>
 <br>
 <br>
+
+
+
 <h2>Specificity</h2>
 <p>An element can be targeted by multiple styles/selectors. The style that is closest/most specific to the element will be applied by CSS. 
   <br>
